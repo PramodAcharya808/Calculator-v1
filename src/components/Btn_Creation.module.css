@@ -1,0 +1,17 @@
+.main_button {
+  border: 1px solid #878787;
+  background-color: rgba(128, 128, 128, 0.167);
+  border-radius: 5px;
+  height: 60px;
+  width: 60px;
+  margin: 1px 4px 1px 4px;
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: black;
+}
+
+.main_button:active {
+  box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  transform: scale(0.9);
+  transition: 0.1s ease-in-out;
+}

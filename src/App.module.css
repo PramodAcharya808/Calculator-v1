@@ -1,0 +1,12 @@
+.outer_wrapper {
+  width: 15%;
+  border: 1px solid grey;
+  box-sizing: border-box;
+  padding: 15px;
+  margin: 50px auto;
+}
+
+
+.button_container {
+  box-sizing: border-box;
+}
